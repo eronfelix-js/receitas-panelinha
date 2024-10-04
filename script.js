@@ -58,6 +58,5 @@ async function listarReceita(id){
     <P>${receita.strInstructions}</P>
     <P>Aula:<video> <a href="${receita.strYoutube} target="_blank"> Clique Aqui Para Assistir no Youtube</a></p>
     `
-    
 }
 
